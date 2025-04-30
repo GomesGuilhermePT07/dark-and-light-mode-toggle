@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    font-family: 'Gill Sans MT';
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    justify-content: space-between;
+    background-color: inherit;
+}
+
+#logo{
+    height: 40px;
+    width: 40px;
+}
+
+button{
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+.light{
+    background-color: #fff;
+    color: #000;
+}
+
+.dark{
+    background-color: #1a1a1a;
+    color: #fff;
+}

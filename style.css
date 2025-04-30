@@ -39,3 +39,14 @@ button{
     background-color: #1a1a1a;
     color: #fff;
 }
+
+.dark img#logo{
+    height: 60px;
+    width: 60px;
+}
+
+.dark header{
+    margin-top: 3rem; 
+    margin-left: 3rem;
+    margin-bottom: 3.1rem;
+}
